@@ -8,7 +8,7 @@ La fonction principale est la fonction watermark()
 ------------
   - 'image', L'adresse d'une image de base
   - 'watermark', L'adresse d'une image qui servira de watermark
-  - 'pos', la position à laquelle le watermark doit être placé. Elle peut être exprimé par une pair de nombre, ou par une position relative
+  - 'pos', la position à laquelle le watermark doit être placé. Elle peut être exprimée par une pair de nombre, ou par une position relative
     - 'M', au milieu de l'image
     - 'TL', dans le coin supérieur gauche
     - 'TM', au milieu du bord supérieur de l'image
