@@ -65,9 +65,9 @@ The second approach is a bit more automatic :
   - At first I choose 3 markers, one in the tumour, one in the backgroud, and the last one in the sain brain
   - I applied the watershed transform on the gradient image using those markers, and the tumor is segmented
   - To improve a bit, I used the minimum gradient points to find automaticaly some markers
-  
----------------
+ 
 Tumour surface
+---------------
 
 The manual method and the automatic method give pretty similar result for the tumour surface
   - Manual surface : 44.77 cm²
