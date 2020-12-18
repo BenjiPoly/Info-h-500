@@ -66,7 +66,7 @@ The second approach is a bit more automatic :
   - I applied the watershed transform on the gradient image using those markers, and the tumor is segmented
   - To improve a bit, I used the minimum gradient points to find automaticaly some markers
  
-Tumour surface
+###Tumour surface
 ---------------
 
 The manual method and the automatic method give pretty similar result for the tumour surface
